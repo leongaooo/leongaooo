@@ -1,6 +1,6 @@
 ## Hi there 👋
-I will eventually become a full-stack developer and a 3D developer.
-
+### I will eventually become a full-stack developer and a 3D developer.
+<img src="https://github.com/leongaooo/leongaooo/blob/main/lion.gif" style="margin: 0 auto;" />
 <!--
 **leongaooo/leongaooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
