@@ -1,5 +1,5 @@
 ## Hi there 👋
-I like 3D, spatial map development, and I also do some full-stack work intermittently. <br/>
+I like JavaScript,Html,Css. <br/>
 I prefer to make friends with people who share the same passion.<br/>
 <img src="https://github.com/leongaooo/leongaooo/blob/main/lion.gif" style="margin: 0 auto;" />
 <!--
