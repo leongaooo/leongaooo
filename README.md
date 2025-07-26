@@ -1,7 +1,7 @@
 ## Hi there 👋
 I like JavaScript,Html,Css. <br/>
 I prefer to make friends with people who share the same passion.<br/>
-<img src="https://github.com/leongaooo/leongaooo/blob/main/lion.gif" style="margin: 0 auto;" />
+[![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=leongaooo)](https://github.com/leongaooo)
 <!--
 **leongaooo/leongaooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
