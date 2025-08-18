@@ -23,7 +23,10 @@
 ![Nuxt](https://img.shields.io/badge/-Nuxt-00C58E?style=flat&logo=nuxt.js)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js)
+![Canvas](https://img.shields.io/badge/-Canvas-F05032?style=flat&logo=html5&logoColor=white)
+![ECharts](https://img.shields.io/badge/-ECharts-AA344D?style=flat&logo=apache-echarts&logoColor=white)
 
 ---
 
