@@ -39,5 +39,5 @@
 
 ---
 
-[![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=leongaooo)](https://github.com/leongaooo)
+[![leongaooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leongaooo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
