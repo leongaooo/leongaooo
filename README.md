@@ -11,6 +11,7 @@
 - 💻 I love building immersive web experiences with **JavaScript**, **HTML**, and **CSS**
 - 🎯 Passionate about **Web3D**, **Three.js**, and **Map-based visualization**
 - 🤝 Always excited to meet and collaborate with fellow creators and curious minds
+- 🪜 One of the world's top software engineers and visual data processing experts (is becoming)
 
 ---
 
