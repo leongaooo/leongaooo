@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Leon Gao</h1>
 
 <p align="center">
-  🔥 Full-stack Engineer | 🚀 Web3D Explorer | 🌍 GIS Enthusiast
+  🔥 Full-stack Engineer | 🚀 Web3D Explorer | 🌍 AI App Developer
 </p>
 
 ---
