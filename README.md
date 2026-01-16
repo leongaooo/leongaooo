@@ -56,5 +56,6 @@
 > Let's paint something awesome together 🎨✨
 
 ---
-| [![leongaooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leongaooo&show_icons=true&theme=holi)](https://github.com/anuraghazra/github-readme-stats) | ![leongaooo's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leongaooo&layout=compact&hide_border=true&langs_count=10&theme=holi)|
-| ---- | ---- |
+ | ![](https://streak-stats.demolab.com?user=leongaooo&theme=holi&hide_border=true) | ![](https://github-readme-activity-graph.vercel.app/graph?username=leongaooo&theme=github-
+  compact&hide_border=true) |
+  | ---- | ---- |
