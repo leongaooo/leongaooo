@@ -4,17 +4,6 @@
   🔥 Full-stack Engineer | 🚀 Web3D Explorer | 🌍 AI App Developer
 </p>
 
----
-
-### 🚀 About Me
-
-- 💻 I love building immersive web experiences with **JavaScript**, **HTML**, and **CSS**
-- 🎯 Passionate about **Web3D**, **Three.js**, and **Map-based visualization**
-- 🤝 Always excited to meet and collaborate with fellow creators and curious minds
-- 🪜 One of the world's top software engineers and visual data processing experts (is becoming)
-
----
-
 ### 🧰 Tech Stack
 
 #### 🎨 **Design & Architecture**
@@ -56,6 +45,6 @@
 > Let's paint something awesome together 🎨✨
 
 ---
-| ![](https://streak-stats.demolab.com?user=leongaooo&theme=holi&hide_border=true) | ![](https://github-readme-activity-graph.vercel.app/graph?username=leongaooo&theme=github-compact&hide_border=true) |
+| ![](https://streak-stats.demolab.com?user=leongaooo&theme=shadow-green&hide_border=true) | ![](https://github-readme-activity-graph.vercel.app/graph?username=leongaooo&theme=tokyo-night&hide_border=true) |
 | ---- | ---- |
 
