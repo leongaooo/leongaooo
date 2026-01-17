@@ -45,6 +45,6 @@
 > Let's paint something awesome together 🎨✨
 
 ---
-| ![](https://streak-stats.demolab.com?user=leongaooo&theme=shadow-green&hide_border=true) | ![](https://github-readme-activity-graph.vercel.app/graph?username=leongaooo&theme=tokyo-night&hide_border=true) |
+| ![](https://github-readme-stats.vercel.app/api?username=leongaooo&show_icons=true&theme=radical&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leongaooo&layout=compact&hide_border=true&theme=radical) |
 | ---- | ---- |
 
