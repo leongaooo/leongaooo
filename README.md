@@ -45,6 +45,5 @@
 > Let's paint something awesome together 🎨✨
 
 ---
-| ![](https://streak-stats.demolab.com?user=leongaooo&theme=tokyonight&hide_border=true) | ![](https://github-readme-activity-graph.vercel.app/graph?username=leongaooo&theme=tokyo-night&hide_border=true) |
-| ---- | ---- |
-
+| ![GitHub Streak Stats](https://github-readme-streak-stats-eight.vercel.app/?user=leongaooo&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=400) | ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leongaooo&theme=tokyo-night&hide_border=true&area=true&hide_title=true&custom_title=My%20GitHub%20Activity&line=7AA2F7&point=7DCFFF&area_color=7AA2F720&width=800&height=400) |
+| :------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
